@@ -1,18 +1,19 @@
-// // let bird ;
-// function add(num1,num2){
-//      console.log(num1 + num2);
-//      return
+// let bird;
+// function add(num1,num2) {
+//     console.log(num1 + num2);
+//     return
 // }
-
-// function add(num1,num2=10) {
-//     console.log(num1,num2);
-// }
-// const result = add(15);
+// const result = add(10,20);
 // console.log(result);
 
-const lover = {name:'Beautiful girl', phone: 53989};
-console.log(lover.gf);
+// function add(num1,num2 = 50) {
+//     console.log(num2,num1);
+// }
+//  const result = add(20);
+// const boyfriend ={name:"smart dude",phone: 457878};
+// console.log(boyfriend.education);
 
 let fun = undefined;
 console.log(fun);
 
+// null - not exsisted you can not find it like undefined  
