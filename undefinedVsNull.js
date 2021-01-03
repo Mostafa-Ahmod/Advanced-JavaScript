@@ -1,19 +1,18 @@
+// if you decide value of variable
 // let bird;
-// function add(num1,num2) {
-//     console.log(num1 + num2);
-//     return
-// }
-// const result = add(10,20);
-// console.log(result);
 
-// function add(num1,num2 = 50) {
-//     console.log(num2,num1);
+// function add(num1, num2=80) {
+//     console.log(num1 + num2);
 // }
 //  const result = add(20);
-// const boyfriend ={name:"smart dude",phone: 457878};
-// console.log(boyfriend.education);
+//     console.log(result);
 
-let fun = undefined;
-console.log(fun);
+// if you are looking for some attribute that are not in the array
+// const boyfriend ={name:"smart dude",phone: 457878};
+// console.log(boyfriend.name);
+
+// it is not commonly used in the programing and it is should not be
+// let fun = undefined;
+// console.log(fun);
 
 // null - not exsisted you can not find it like undefined  
